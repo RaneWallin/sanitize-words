@@ -1,0 +1,19 @@
+{
+  "name": "sanitize-words",
+  "version": "1.0.0",
+  "description": "Removes undesirable words from input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaneWallin/sanitize-words.git"
+  },
+  "author": "Rane Wallin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaneWallin/sanitize-words/issues"
+  },
+  "homepage": "https://github.com/RaneWallin/sanitize-words#readme"
+}
